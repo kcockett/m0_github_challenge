@@ -4,3 +4,6 @@ Describe in your own words how to establish a connection between a local reposit
 
 ## Subtext
 Adding subtext for change purposes
+- Add item 1
+- Add item 2
+- Add item 3
